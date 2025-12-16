@@ -1,0 +1,27 @@
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:31.129 DriverManager:30 - initializing Appium driver
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:31.184 PropertyManager:17 - loading config properties
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:31.214 CapabilitiesManager:32 - appUrl is/Users/akash.khobragade/Documents/Automation/Cucumber/AppiumCucumberFramwork/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:37.457 DriverManager:42 - Driver is initialized
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:41.341 BasePage:75 - login with invalidUsername
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:42.615 BasePage:75 - password is secret_sauce
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:43.779 BasePage:58 - press login button
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:45.005 BasePage:101 - error text is - Username and password do not match any user in this service.
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:47.856 BasePage:75 - login with standard_user
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:49.122 BasePage:75 - password is invalidPassword
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:49.790 BasePage:58 - press login button
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:50.698 BasePage:101 - error text is - Username and password do not match any user in this service.
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:53.630 BasePage:75 - login with standard_user
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:54.900 BasePage:75 - password is secret_sauce
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:55.548 BasePage:58 - press login button
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:56.931 BasePage:101 - product page title is - PRODUCTS
+[Android_AndroidPhone INFO ] 2025-12-16 20:40:59.796 BasePage:75 - login with standard_user
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:01.559 BasePage:75 - password is secret_sauce
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:03.129 BasePage:58 - press login button
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:04.623 BasePage:101 - product title is: Sauce Labs Bolt T-ShirtSauce Labs Bolt T-Shirt
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:07.589 BasePage:75 - login with standard_user
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:08.826 BasePage:75 - password is secret_sauce
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:09.452 BasePage:58 - press login button
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:10.920 BasePage:58 - press Sauce Labs Backpack link
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:12.137 BasePage:101 - title is: Sauce Labs Backpack
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:12.325 BasePage:101 - description is: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[Android_AndroidPhone INFO ] 2025-12-16 20:41:12.440 BasePage:101 - price is: $29.99

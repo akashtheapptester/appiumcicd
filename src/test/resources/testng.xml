@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Android Suite" parallel="tests" thread-count="2">
+
+	<test name="Android1">
+		<parameter name="platformName" value="Android"/>
+		<parameter name="udid" value="emulator-5554"/>
+		<parameter name="deviceName" value="Android1"/>
+		<parameter name="systemPort" value="8200"/>
+		<parameter name="chromeDriverPort" value="9515"/>
+		<classes>
+			<class name="com.qa.runners.Android1TestNGRunnerTest"/>
+		</classes>
+	</test>
+
+<!--	<test name="Android2">-->
+<!--		<parameter name="platformName" value="Android"/>-->
+<!--		<parameter name="udid" value="emulator-5556"/>-->
+<!--		<parameter name="deviceName" value="Android2"/>-->
+<!--		<parameter name="systemPort" value="8201"/>-->
+<!--		<parameter name="chromeDriverPort" value="9516"/>-->
+<!--		<classes>-->
+<!--			<class name="com.qa.runners.Android2TestNGRunnerTest"/>-->
+<!--		</classes>-->
+<!--	</test>-->
+
+</suite>
