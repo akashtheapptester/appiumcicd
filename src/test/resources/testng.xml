@@ -13,7 +13,7 @@
 			<class name="com.qa.runners.Android1TestNGRunnerTest"/>
 		</classes>
 	</test>
-
+//Commented code
 <!--	<test name="Android2">-->
 <!--		<parameter name="platformName" value="Android"/>-->
 <!--		<parameter name="udid" value="emulator-5556"/>-->
