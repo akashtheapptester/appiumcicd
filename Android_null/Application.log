@@ -1,4 +1,0 @@
-[Android_null INFO ] 2025-12-16 20:12:01.963 DriverManager:30 - initializing Appium driver
-[Android_null INFO ] 2025-12-16 20:12:02.106 PropertyManager:17 - loading config properties
-[Android_null INFO ] 2025-12-16 20:12:02.109 CapabilitiesManager:17 - getting capabilities
-[Android_null INFO ] 2025-12-16 20:12:02.136 CapabilitiesManager:33 - appUrl is/Users/akash.khobragade/Documents/Automation/Cucumber/AppiumCucumberFramwork/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
